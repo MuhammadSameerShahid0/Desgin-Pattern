@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Command Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7692CEE8-411D-40DD-82F2-0BFA92882E05}|Command Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\command pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7692CEE8-411D-40DD-82F2-0BFA92882E05}|Command Pattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7692CEE8-411D-40DD-82F2-0BFA92882E05}|Command Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\command pattern\\invoker\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7692CEE8-411D-40DD-82F2-0BFA92882E05}|Command Pattern.csproj|solutionrelative:invoker\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7692CEE8-411D-40DD-82F2-0BFA92882E05}|Command Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\command pattern\\command\\stopcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7692CEE8-411D-40DD-82F2-0BFA92882E05}|Command Pattern.csproj|solutionrelative:command\\stopcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7692CEE8-411D-40DD-82F2-0BFA92882E05}|Command Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\command pattern\\command\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7692CEE8-411D-40DD-82F2-0BFA92882E05}|Command Pattern.csproj|solutionrelative:command\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7692CEE8-411D-40DD-82F2-0BFA92882E05}|Command Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\command pattern\\interfaces\\itv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7692CEE8-411D-40DD-82F2-0BFA92882E05}|Command Pattern.csproj|solutionrelative:interfaces\\itv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invoker.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Command Pattern\\Invoker\\Invoker.cs",
+              "RelativeDocumentMoniker": "Invoker\\Invoker.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Command Pattern\\Invoker\\Invoker.cs",
+              "RelativeToolTip": "Invoker\\Invoker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:12:24.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StopCommand.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Command Pattern\\Command\\StopCommand.cs",
+              "RelativeDocumentMoniker": "Command\\StopCommand.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Command Pattern\\Command\\StopCommand.cs",
+              "RelativeToolTip": "Command\\StopCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:10:03.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Command Pattern\\Command\\StartCommand.cs",
+              "RelativeDocumentMoniker": "Command\\StartCommand.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Command Pattern\\Command\\StartCommand.cs",
+              "RelativeToolTip": "Command\\StartCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAhwBIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:08:52.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITV.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Command Pattern\\Interfaces\\ITV.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITV.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Command Pattern\\Interfaces\\ITV.cs",
+              "RelativeToolTip": "Interfaces\\ITV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:07:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Command Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Command Pattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:37:24.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
