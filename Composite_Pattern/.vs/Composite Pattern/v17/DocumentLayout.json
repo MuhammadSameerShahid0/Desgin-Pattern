@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Composite Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB79477-D9E8-4BD3-9140-58F0ACB75A22}|Composite Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\composite pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB79477-D9E8-4BD3-9140-58F0ACB75A22}|Composite Pattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB79477-D9E8-4BD3-9140-58F0ACB75A22}|Composite Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\composite pattern\\directorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB79477-D9E8-4BD3-9140-58F0ACB75A22}|Composite Pattern.csproj|solutionrelative:directorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB79477-D9E8-4BD3-9140-58F0ACB75A22}|Composite Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\composite pattern\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB79477-D9E8-4BD3-9140-58F0ACB75A22}|Composite Pattern.csproj|solutionrelative:files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB79477-D9E8-4BD3-9140-58F0ACB75A22}|Composite Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\composite pattern\\interface\\ifilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB79477-D9E8-4BD3-9140-58F0ACB75A22}|Composite Pattern.csproj|solutionrelative:interface\\ifilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Directorys.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Composite Pattern\\Directorys.cs",
+              "RelativeDocumentMoniker": "Directorys.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Composite Pattern\\Directorys.cs",
+              "RelativeToolTip": "Directorys.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:44:09.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Files.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Composite Pattern\\Files.cs",
+              "RelativeDocumentMoniker": "Files.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Composite Pattern\\Files.cs",
+              "RelativeToolTip": "Files.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:42:31.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileSystem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Composite Pattern\\Interface\\IFileSystem.cs",
+              "RelativeDocumentMoniker": "Interface\\IFileSystem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Composite Pattern\\Interface\\IFileSystem.cs",
+              "RelativeToolTip": "Interface\\IFileSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:41:57.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Composite Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Composite Pattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:40:24.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
