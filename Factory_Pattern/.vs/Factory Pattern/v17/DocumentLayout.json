@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Factory Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44EB78F8-0E93-4991-A991-8B40F3AA28B2}|Factory Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\factory pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EB78F8-0E93-4991-A991-8B40F3AA28B2}|Factory Pattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EB78F8-0E93-4991-A991-8B40F3AA28B2}|Factory Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\factory pattern\\factory\\pizzafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EB78F8-0E93-4991-A991-8B40F3AA28B2}|Factory Pattern.csproj|solutionrelative:factory\\pizzafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EB78F8-0E93-4991-A991-8B40F3AA28B2}|Factory Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\factory pattern\\concrete\\margheritapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EB78F8-0E93-4991-A991-8B40F3AA28B2}|Factory Pattern.csproj|solutionrelative:concrete\\margheritapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EB78F8-0E93-4991-A991-8B40F3AA28B2}|Factory Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\factory pattern\\interfaces\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EB78F8-0E93-4991-A991-8B40F3AA28B2}|Factory Pattern.csproj|solutionrelative:interfaces\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EB78F8-0E93-4991-A991-8B40F3AA28B2}|Factory Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\factory pattern\\concrete\\pepperonipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EB78F8-0E93-4991-A991-8B40F3AA28B2}|Factory Pattern.csproj|solutionrelative:concrete\\pepperonipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Factory Pattern\\Factory\\PizzaFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\PizzaFactory.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Factory Pattern\\Factory\\PizzaFactory.cs",
+              "RelativeToolTip": "Factory\\PizzaFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:59:38.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MargheritaPizza.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Factory Pattern\\Concrete\\MargheritaPizza.cs",
+              "RelativeDocumentMoniker": "Concrete\\MargheritaPizza.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Factory Pattern\\Concrete\\MargheritaPizza.cs",
+              "RelativeToolTip": "Concrete\\MargheritaPizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:58:30.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Factory Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Factory Pattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:56:01.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PepperoniPizza.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Factory Pattern\\Concrete\\PepperoniPizza.cs",
+              "RelativeDocumentMoniker": "Concrete\\PepperoniPizza.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Factory Pattern\\Concrete\\PepperoniPizza.cs",
+              "RelativeToolTip": "Concrete\\PepperoniPizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:57:32.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPizza.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Factory Pattern\\Interfaces\\IPizza.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPizza.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Factory Pattern\\Interfaces\\IPizza.cs",
+              "RelativeToolTip": "Interfaces\\IPizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:56:24.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
