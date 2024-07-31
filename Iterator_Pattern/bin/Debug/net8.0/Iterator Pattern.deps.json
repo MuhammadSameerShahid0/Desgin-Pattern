@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Iterator Pattern/1.0.0": {
+        "runtime": {
+          "Iterator Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Iterator Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
