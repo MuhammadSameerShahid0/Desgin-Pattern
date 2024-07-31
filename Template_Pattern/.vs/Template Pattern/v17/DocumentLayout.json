@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Template Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4496D79A-3766-434E-A396-141896591C7C}|Template Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\template pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4496D79A-3766-434E-A396-141896591C7C}|Template Pattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4496D79A-3766-434E-A396-141896591C7C}|Template Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\template pattern\\concrete\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4496D79A-3766-434E-A396-141896591C7C}|Template Pattern.csproj|solutionrelative:concrete\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4496D79A-3766-434E-A396-141896591C7C}|Template Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\template pattern\\template\\preparingtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4496D79A-3766-434E-A396-141896591C7C}|Template Pattern.csproj|solutionrelative:template\\preparingtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4496D79A-3766-434E-A396-141896591C7C}|Template Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\template pattern\\concrete\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4496D79A-3766-434E-A396-141896591C7C}|Template Pattern.csproj|solutionrelative:concrete\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Template Pattern\\Concrete\\Coffee.cs",
+              "RelativeDocumentMoniker": "Concrete\\Coffee.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Template Pattern\\Concrete\\Coffee.cs",
+              "RelativeToolTip": "Concrete\\Coffee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:06:52.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Template Pattern\\Concrete\\Tea.cs",
+              "RelativeDocumentMoniker": "Concrete\\Tea.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Template Pattern\\Concrete\\Tea.cs",
+              "RelativeToolTip": "Concrete\\Tea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:05:16.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PreparingTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Template Pattern\\Template\\PreparingTemplate.cs",
+              "RelativeDocumentMoniker": "Template\\PreparingTemplate.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Template Pattern\\Template\\PreparingTemplate.cs",
+              "RelativeToolTip": "Template\\PreparingTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:01:06.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Template Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Template Pattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:00:39.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
