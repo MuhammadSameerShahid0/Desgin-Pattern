@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Adapter Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE923EC-8B27-4360-86CB-3FFDCD1CB7FB}|Adapter Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\adapter pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE923EC-8B27-4360-86CB-3FFDCD1CB7FB}|Adapter Pattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE923EC-8B27-4360-86CB-3FFDCD1CB7FB}|Adapter Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\adapter pattern\\adapter\\adapterpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE923EC-8B27-4360-86CB-3FFDCD1CB7FB}|Adapter Pattern.csproj|solutionrelative:adapter\\adapterpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE923EC-8B27-4360-86CB-3FFDCD1CB7FB}|Adapter Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\adapter pattern\\newpayment\\inewpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE923EC-8B27-4360-86CB-3FFDCD1CB7FB}|Adapter Pattern.csproj|solutionrelative:newpayment\\inewpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE923EC-8B27-4360-86CB-3FFDCD1CB7FB}|Adapter Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\adapter pattern\\oldpayment\\ioldpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE923EC-8B27-4360-86CB-3FFDCD1CB7FB}|Adapter Pattern.csproj|solutionrelative:oldpayment\\ioldpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE923EC-8B27-4360-86CB-3FFDCD1CB7FB}|Adapter Pattern.csproj|c:\\users\\dell\\desktop\\desgin pattern\\adapter pattern\\oldpayment\\oldpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE923EC-8B27-4360-86CB-3FFDCD1CB7FB}|Adapter Pattern.csproj|solutionrelative:oldpayment\\oldpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdapterPayment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Adapter Pattern\\Adapter\\AdapterPayment.cs",
+              "RelativeDocumentMoniker": "Adapter\\AdapterPayment.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Adapter Pattern\\Adapter\\AdapterPayment.cs",
+              "RelativeToolTip": "Adapter\\AdapterPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:06:43.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INewPayment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Adapter Pattern\\NewPayment\\INewPayment.cs",
+              "RelativeDocumentMoniker": "NewPayment\\INewPayment.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Adapter Pattern\\NewPayment\\INewPayment.cs",
+              "RelativeToolTip": "NewPayment\\INewPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:05:56.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OldPayment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Adapter Pattern\\OldPayment\\OldPayment.cs",
+              "RelativeDocumentMoniker": "OldPayment\\OldPayment.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Adapter Pattern\\OldPayment\\OldPayment.cs",
+              "RelativeToolTip": "OldPayment\\OldPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:04:32.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOldPayment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Adapter Pattern\\OldPayment\\IOldPayment.cs",
+              "RelativeDocumentMoniker": "OldPayment\\IOldPayment.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Adapter Pattern\\OldPayment\\IOldPayment.cs",
+              "RelativeToolTip": "OldPayment\\IOldPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:04:00.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Adapter Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Desgin Pattern\\Adapter Pattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:03:31.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
